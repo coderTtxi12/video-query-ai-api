@@ -1,0 +1,3 @@
+const myFunction = null || function() {
+    
+}
